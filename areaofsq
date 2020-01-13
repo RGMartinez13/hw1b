@@ -1,0 +1,19 @@
+// Rafael Martinez 01/14/2019
+// COP2000 Virtual
+
+
+#include <iostream>
+using namespace std;
+
+int main() //function main begins program execution
+{
+	cout << "*******************************" << endl;
+	cout << "***     Rafael Martinez     ***" << endl;
+	cout << "*******************************" << endl;
+	cout << "***        My Square        ***" << endl;
+	cout << "*******************************" << endl;
+  
+  //still need to calculate sq
+
+		return 0;
+} // end main
